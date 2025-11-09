@@ -21,3 +21,5 @@ print("🏆 Bienvenido a SportZone ⚽ — Tu cancha sintética al alcance de un
 
 ## 🔗 Enlace a mi perfil de GitHub
 [Visita mi enlace en GitHub] https://github.com/nestor5728z-art/EJ-RG-2
+
+![Logo de SportZone]   https://img.freepik.com/psd-gratis/campo-futbol-verde-exuberante-campo-perfecto_191095-90849.jpg?semt=ais_hybrid&w=740&q=80

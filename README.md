@@ -20,6 +20,6 @@ print("🏆 Bienvenido a SportZone ⚽ — Tu cancha sintética al alcance de un
 ```
 
 ## 🔗 Enlace a mi perfil de GitHub
-[Visita mi enlace en GitHub] https://github.com/nestor5728z-art/EJ-RG-2
+[Visita mi enlace en GitHub](https://github.com/nestor5728z-art/EJ-RG-2)
 
 ![Logo de SportZone](https://i.pinimg.com/736x/33/fd/22/33fd2249c34054d07f9373f89f31a42e.jpg)

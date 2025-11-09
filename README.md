@@ -18,3 +18,6 @@ Permite a los usuarios ver horarios disponibles, registrar partidos y administra
 ```python
 print("🏆 Bienvenido a SportZone ⚽ — Tu cancha sintética al alcance de un clic.")
 ```
+
+## 🔗 Enlace a mi perfil de GitHub
+[Visita mi enlace en GitHub] https://github.com/nestor5728z-art/EJ-RG-2

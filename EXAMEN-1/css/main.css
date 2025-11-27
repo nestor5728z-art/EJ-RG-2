@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fafafa;
+    margin: 0;
+    padding: 30px 80px;
+}
+h1 {
+    margin-bottom: 10px;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+#pendientes-list, #realizadas-list {
+    margin-bottom: 10px;
+}
+.task-box, .realizadas-box {
+    padding: 12px 18px;
+    margin-bottom: 12px;
+    border-radius: 7px;
+    box-shadow: none;
+    transition: box-shadow 0.2s, background 0.2s;
+    cursor: pointer;
+    user-select: none;
+    background: #eaeaea;
+}
+.task-box:hover, .realizadas-box:hover {
+    box-shadow: 0 2px 18px rgba(44,44,44,0.14);
+    background: #e6f5ff;
+}
+.realizadas-box {
+    color: #388738;
+    text-decoration: line-through;
+    background: #c6eec6;
+}
+
+
